@@ -3,4 +3,8 @@
 
 ---------------------------------------------------------------------------------------------
 
+[Toinen layout](https://www.figma.com/file/IcfcsC2SOo3LSeZlx2jsQJ/Untitled?node-id=0%3A1)
+
+---------------------------------------------------------------------------------------------
+
 [Graafinen ohjeistus](https://www.figma.com/file/s4SmaT4SjRDcdpEj1zEiQf/Untitled?node-id=0%3A1)
