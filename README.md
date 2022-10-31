@@ -13,6 +13,8 @@ Teemme nettisivut hyväntekeväisyys päiväkodille jotka sisältävät sivut:
 
 Kaikki sivut sisältävät: valikko palkin, taustan, logon ja logon taustakuvan sekä alareunassa yhteystiedot ja pikalinkit. 
 
+Logo: punainen, korjataan kirjoitus virhe, vahvistetaan väriä. valkoinen pohja?
+
 etusivun : Alkutarina 
 
 gallerian : kuva kansiot vuosittain 
@@ -22,3 +24,7 @@ tarinat : tarinat jaoteltu henkilöittäin tai sisällön mukaan.
 yhteystiedot : löytyy perus yhteystiedot ja pankkitilit lahjoittamista varten. 
 
 Teemme graafisen ohjeiston ja nettisivujen ylläpitopalvelimena hostinger. 
+
+Somet: facebook riittää
+
+slogan: Sharing is caring
