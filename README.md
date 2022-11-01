@@ -48,5 +48,5 @@ Uusi logo ehdotus(fontin lisenssit), helppolukuisempi ja paksumpi.
 
 Oranssi, vanha paperi valkoinen ja tummahko ruskea. tarkemmat väri koodit: (#FFA543, #FFF6E9, #524439) (saattaa muuttua vielä)
 
-
+Rautalanka mallit: Puhelin, Tabletti vaaka ja pystysuuntaan ja tietokone?
 
