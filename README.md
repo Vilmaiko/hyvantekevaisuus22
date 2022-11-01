@@ -1,7 +1,7 @@
 # Hyväntekeväisyys
 
 
-##Vaatimusmääritelmät 
+## Vaatimusmääritelmät 
 
  
 
