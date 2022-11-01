@@ -44,6 +44,8 @@ Palkkeihin: Mulu´s story, Faces behind stories, How it all started (Kore-sister
 
 Raikas, yksinkertainen ja helppo käyttäinen.
 
+Logo: pakko vaihtaa ellei halua maksaa fontin käytöstä.
+
 Uusi logo ehdotus(fontin lisenssit), helppolukuisempi ja paksumpi.
 
 Oranssi, vanha paperi valkoinen ja tummahko ruskea. tarkemmat väri koodit: (#FFA543, #FFF6E9, #524439) (saattaa muuttua vielä)
