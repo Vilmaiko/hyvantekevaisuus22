@@ -23,8 +23,9 @@ tarinat : tarinat jaoteltu henkilöittäin tai sisällön mukaan.
 
 yhteystiedot : löytyy perus yhteystiedot ja pankkitilit lahjoittamista varten. 
 
-Teemme graafisen ohjeiston ja nettisivujen ylläpitopalvelimena hostinger. 
-
+Teemme graafisen ohjeiston ja nettisivujen ylläpitopalvelimena hostinger. Hostinger oli hyvä hintojensa puolesta. Domain 12€ vuodessa, Ja sivujen laitto 2€ kuukaudessa ensimmäisen vuoden. Sen jälkeen 3€ kuussa. Ja maksaa voi todennäköisesti kerran vuodessa. Valitsin tämän koska en löytänyt halvempia vaihtoehtoja.
+Serverit ovat euroopassa.
+ 
 Somet: facebook riittää (raikas profiili)
 
 slogan: Sharing is caring
