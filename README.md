@@ -46,7 +46,7 @@ Raikas, yksinkertainen ja helppo käyttäinen.
 
 Uusi logo ehdotus(fontin lisenssit), helppolukuisempi ja paksumpi.
 
-Oranssi, vanha paperi valkoinen ja tummahko ruskea. tarkemmat väri koodit: (laitetaan tähän) (saattaa muuttua vielä)
+Oranssi, vanha paperi valkoinen ja tummahko ruskea. tarkemmat väri koodit: (#FFA543, #524439, #FFF6E9) (saattaa muuttua vielä)
 
 
 
