@@ -21,10 +21,6 @@ tarinat : tarinat jaoteltu henkilöittäin tai sisällön mukaan.
 
 yhteystiedot : löytyy perus yhteystiedot ja pankkitilit lahjoittamista varten. 
 
-## Palvelin
-Palvelina käytämme hostingeriä jossa on helppo pitää sivut yllä. Ylläpito 2€ kuussa ekan vuoden ja sen jälkeen 3€ kuussa.
-Domain on 12€ vuodessa. Ei löydetty halvempaa vaihtoehtoa. Serverit löytyvät euroopasta.
-
 Somet: facebook riittää (raikas profiili)
 
 slogan: Sharing is caring
@@ -41,6 +37,12 @@ Vapaaehtoistyö (ei ole ihmisiä hoitamaan blogeja ja uutisia)
 jonnekkin kohta: Voluntary work/training -> Kysymys: Are you interestend in working with us? You are more than welcome to do your training for studies or be a volunteer at our Day care Centre.
 
 Palkkeihin: Mulu´s story, Faces behind stories, How it all started (Kore-sisters tarinaa ja miten kaikki aikoinaan alkoi), Contacts, Day care Centre, Donations, jne.
+
+
+## Palvelin
+Palvelina käytämme hostingeriä jossa on helppo pitää sivut yllä. Ylläpito 2€ kuussa ekan vuoden ja sen jälkeen 3€ kuussa.
+Domain on 12€ vuodessa. Ei löydetty halvempaa vaihtoehtoa. Serverit löytyvät euroopasta.
+
 
 ## Graaffinen ohjeisto
 
