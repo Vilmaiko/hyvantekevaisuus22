@@ -21,6 +21,8 @@ tarinat : tarinat jaoteltu henkilöittäin tai sisällön mukaan.
 
 yhteystiedot : löytyy perus yhteystiedot ja pankkitilit lahjoittamista varten. 
 
+Teemme graafisen ohjeiston ja nettisivujen ylläpitopalvelimena hostinger. 
+
 Somet: facebook riittää (raikas profiili)
 
 slogan: Sharing is caring
@@ -38,12 +40,6 @@ jonnekkin kohta: Voluntary work/training -> Kysymys: Are you interestend in work
 
 Palkkeihin: Mulu´s story, Faces behind stories, How it all started (Kore-sisters tarinaa ja miten kaikki aikoinaan alkoi), Contacts, Day care Centre, Donations, jne.
 
-
-## Palvelin
-Palvelina käytämme hostingeriä jossa on helppo pitää sivut yllä. Ylläpito 2€ kuussa ekan vuoden ja sen jälkeen 3€ kuussa.
-Domain on 12€ vuodessa. Ei löydetty halvempaa vaihtoehtoa. Serverit löytyvät euroopasta.
-
-
 ## Graaffinen ohjeisto
 
 Raikas, yksinkertainen ja helppo käyttäinen.
@@ -56,3 +52,4 @@ Oranssi, vanha paperi valkoinen ja tummahko ruskea. tarkemmat väri koodit: (#FF
 
 Rautalanka mallit: Puhelin, Tabletti vaaka ja pystysuuntaan ja tietokone?
 
+Tausta: kuva homma. 
