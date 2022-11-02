@@ -1,13 +1,11 @@
 # Hyväntekeväisyys
 
 
-Vaatimusmääritelmät 
+## Vaatimusmääritelmät 
 
  
 
 Asiakas vaati nettisivut josta löytyy pankkitunnukset, etusivulle päiväkodin tarina, tarinat ja kuvagalleria, yhteystiedot alhaalla ja yhteydenotto lomake. 
-
- 
 
 Teemme nettisivut hyväntekeväisyys päiväkodille jotka sisältävät sivut: 
 
@@ -15,7 +13,7 @@ Kaikki sivut sisältävät: valikko palkin, taustan, logon ja logon taustakuvan 
 
 Logo: punainen, korjataan kirjoitus virhe, vahvistetaan väriä. valkoinen pohja?
 
-etusivun : Alkutarina eli lyhyt kuvaus englanniksi -> mikä mulufikir on ja kuvia
+etusivun : Alkutarina  eli lyhyt kuvaus englanniksi -> mikä mulufikir on ja kuvia.
 
 gallerian : kuva kansiot vuosittain 
 
@@ -40,6 +38,18 @@ Kohde ryhmä: laidasta laitaan, Mulun ja lähipiirin ystäviä, tuttavia, vapaae
 Vapaaehtoistyö (ei ole ihmisiä hoitamaan blogeja ja uutisia)
 jonnekkin kohta: Voluntary work/training -> Kysymys: Are you interestend in working with us? You are more than welcome to do your training for studies or be a volunteer at our Day care Centre.
 
-RAIKAS!? yksinkertainen ja ytimekäs. Helppo käyttöinen.
-
 Palkkeihin: Mulu´s story, Faces behind stories, How it all started (Kore-sisters tarinaa ja miten kaikki aikoinaan alkoi), Contacts, Day care Centre, Donations, jne.
+
+## Graaffinen ohjeisto
+
+Raikas, yksinkertainen ja helppo käyttäinen.
+
+Logo: pakko vaihtaa ellei halua maksaa fontin käytöstä.
+
+Uusi logo ehdotus(fontin lisenssit), helppolukuisempi ja paksumpi.
+
+Oranssi, vanha paperi valkoinen ja tummahko ruskea. tarkemmat väri koodit: (#FFA543, #FFF6E9, #524439) (saattaa muuttua vielä)
+
+Rautalanka mallit: Puhelin, Tabletti vaaka ja pystysuuntaan ja tietokone?
+
+Tausta: kuva homma. 
