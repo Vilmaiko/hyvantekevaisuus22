@@ -21,7 +21,9 @@ tarinat : tarinat jaoteltu henkilöittäin tai sisällön mukaan.
 
 yhteystiedot : löytyy perus yhteystiedot ja pankkitilit lahjoittamista varten. 
 
-Teemme graafisen ohjeiston ja nettisivujen ylläpitopalvelimena hostinger. 
+## Palvelin
+Palvelina käytämme hostingeriä jossa on helppo pitää sivut yllä. Ylläpito 2€ kuussa ekan vuoden ja sen jälkeen 3€ kuussa.
+Domain on 12€ vuodessa. Ei löydetty halvempaa vaihtoehtoa. Serverit löytyvät euroopasta.
 
 Somet: facebook riittää (raikas profiili)
 
