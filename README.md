@@ -65,3 +65,6 @@ Rautalanka mallit: Puhelin, Tabletti vaaka ja pystysuuntaan ja tietokone?
 
 Tausta: kuva homma. 
 >>>>>>> origin/staging
+
+
+![Graafinen ohjeistus](https://github.com/Vilmaiko/hyvantekevaisuus22/blob/main/figma%20graafinen.png)
