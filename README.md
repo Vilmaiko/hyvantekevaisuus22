@@ -51,6 +51,13 @@ jonnekkin kohta: Voluntary work/training -> Kysymys: Are you interestend in work
 
 Palkkeihin: Mulu´s story, Faces behind stories, How it all started (Kore-sisters tarinaa ja miten kaikki aikoinaan alkoi), Contacts, Day care Centre, Donations, jne.
 
+## Palvelin
+
+Palvelimena hostinger jossa kuukausimaksu ekana vuonna 2€ ja sen jälkeen 3€. Domain maksaa 12 € vuodessa. Serverit sijaitsevat euroopassa. 
+Hostingerissä voi laittaa sivut vps, normaalit tai word press. Turvallisuudeltaan myös luotettava.
+
+Aijomme käyttää WordPressiä sillä se sisältää jo kuvien ja tarinoiden lisäämis ominaisuudet.
+
 ## Graaffinen ohjeisto
 
 Raikas, yksinkertainen ja helppo käyttäinen.
