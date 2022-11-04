@@ -14,7 +14,7 @@
 
 ## Vaatimusmääritelmät 
 
- 
+ fhgdfgfj
 
 Asiakas vaati nettisivut josta löytyy pankkitunnukset, etusivulle päiväkodin tarina, tarinat ja kuvagalleria, yhteystiedot alhaalla ja yhteydenotto lomake. 
 
@@ -59,7 +59,7 @@ Logo: pakko vaihtaa ellei halua maksaa fontin käytöstä.
 
 Uusi logo ehdotus(fontin lisenssit), helppolukuisempi ja paksumpi.
 
-Oranssi, vanha paperi valkoinen ja tummahko ruskea. tarkemmat väri koodit: (#FFA543, #FFF6E9, #524439) (saattaa muuttua vielä)
+Oranssi, valkoinen ja musta. tarkemmat väri koodit: (FF8A02,FFFFFF,000000) (saattaa muuttua vielä)
 
 Rautalanka mallit: Puhelin, Tabletti vaaka ja pystysuuntaan ja tietokone?
 
