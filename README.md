@@ -71,9 +71,9 @@ Oranssi, valkoinen ja musta. tarkemmat väri koodit: (FF8A02,FFFFFF,000000) (saa
 Rautalanka mallit: Puhelin, Tabletti vaaka ja pystysuuntaan ja tietokone?
 
 Tausta: kuva homma. 
-rautalankamalli.png
+![Graafinen ohjeistus](https://github.com/Vilmaiko/hyvantekevaisuus22/blob/main/rautalankamalli.png)
 
-testi
+
 >>>>>>> origin/staging
 
 
