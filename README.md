@@ -65,4 +65,6 @@ Rautalanka mallit: Puhelin, Tabletti vaaka ja pystysuuntaan ja tietokone?
 
 Tausta: kuva homma. 
 rautalankamalli.png
+
+testi
 >>>>>>> origin/staging
