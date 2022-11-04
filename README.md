@@ -14,7 +14,7 @@
 
 ## Vaatimusmääritelmät 
 
- fhgdfgfj
+ 
 
 Asiakas vaati nettisivut josta löytyy pankkitunnukset, etusivulle päiväkodin tarina, tarinat ja kuvagalleria, yhteystiedot alhaalla ja yhteydenotto lomake. 
 
@@ -64,4 +64,5 @@ Oranssi, valkoinen ja musta. tarkemmat väri koodit: (FF8A02,FFFFFF,000000) (saa
 Rautalanka mallit: Puhelin, Tabletti vaaka ja pystysuuntaan ja tietokone?
 
 Tausta: kuva homma. 
+rautalankamalli.png
 >>>>>>> origin/staging
