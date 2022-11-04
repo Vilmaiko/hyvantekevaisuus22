@@ -59,7 +59,7 @@ Logo: pakko vaihtaa ellei halua maksaa fontin käytöstä.
 
 Uusi logo ehdotus(fontin lisenssit), helppolukuisempi ja paksumpi.
 
-Oranssi, valkoinen ja musta. tarkemmat väri koodit: (, , ) (saattaa muuttua vielä)
+Oranssi, valkoinen ja musta. tarkemmat väri koodit: (FF8A02,FFFFFF,000000) (saattaa muuttua vielä)
 
 Rautalanka mallit: Puhelin, Tabletti vaaka ja pystysuuntaan ja tietokone?
 
