@@ -1,7 +1,7 @@
 # Hyväntekeväisyys
 <<<<<<< HEAD
-![Graaffinenohjeistus](http://url/to/img.png)
 
+![Graafinen ohjeistus](https://github.com/Vilmaiko/hyvantekevaisuus22/blob/main/figma%20graafinen.png)
 ---------------------------------------------------------------------------------------------
 
 [Toinen layout](https://www.figma.com/file/IcfcsC2SOo3LSeZlx2jsQJ/Untitled?node-id=0%3A1)
@@ -67,4 +67,4 @@ Tausta: kuva homma.
 >>>>>>> origin/staging
 
 
-![Graafinen ohjeistus](https://github.com/Vilmaiko/hyvantekevaisuus22/blob/main/figma%20graafinen.png)
+
