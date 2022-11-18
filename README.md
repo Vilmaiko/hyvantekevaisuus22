@@ -1,5 +1,7 @@
 # Hyväntekeväisyys
+<<<<<<< HEAD
 
+Linkki nykyisille sivuille. http://team1tests.azurewebsites.net/en/
 
 ## Vaatimusmääritelmät 
 
@@ -40,16 +42,18 @@ jonnekkin kohta: Voluntary work/training -> Kysymys: Are you interestend in work
 
 Palkkeihin: Mulu´s story, Faces behind stories, How it all started (Kore-sisters tarinaa ja miten kaikki aikoinaan alkoi), Contacts, Day care Centre, Donations, jne.
 
+## Palvelin
+
+Palvelimena hostinger jossa kuukausimaksu ekana vuonna 2€ ja sen jälkeen 3€. Domain maksaa 12 € vuodessa. Serverit sijaitsevat euroopassa. 
+Hostingerissä voi laittaa sivut vps, normaalit tai word press. Turvallisuudeltaan myös luotettava.
+
+Aijomme käyttää WordPressiä sillä se sisältää jo kuvien ja tarinoiden lisäämis ominaisuudet.
+
 ## Graaffinen ohjeisto
 
-Raikas, yksinkertainen ja helppo käyttäinen.
 
-Logo: pakko vaihtaa ellei halua maksaa fontin käytöstä.
+Graafinen ohjeistus löytyy main branchilta uuden logon ja tekstiväriehdotuksien kanssa;
 
-Uusi logo ehdotus(fontin lisenssit), helppolukuisempi ja paksumpi.
 
-Oranssi, vanha paperi valkoinen ja tummahko ruskea. tarkemmat väri koodit: (#FFA543, #FFF6E9, #524439) (saattaa muuttua vielä)
+>>>>>>> origin/staging
 
-Rautalanka mallit: Puhelin, Tabletti vaaka ja pystysuuntaan ja tietokone?
-
-Tausta: kuva homma. 
