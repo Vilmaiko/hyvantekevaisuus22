@@ -1,8 +1,8 @@
-Hyväntekeväisyys
+Hyväntekeväisyys Kaikki flyerit suun muut on develop brnachissa
 
 <<<<<<< HEAD
 
-Linkki nykyisille sivuille. http://team1tests.azurewebsites.net/en/
+Linkki nykyisille sivuille. http://team1tests.azurewebsites.net/en/ 
 Vaatimusmääritelmät
 
 Asiakas vaati nettisivut josta löytyy pankkitunnukset, etusivulle päiväkodin tarina, tarinat ja kuvagalleria, yhteystiedot alhaalla ja yhteydenotto lomake.
@@ -44,8 +44,4 @@ Palvelimena hostinger jossa kuukausimaksu ekana vuonna 2€ ja sen jälkeen 3€
 
 Aijomme käyttää WordPressiä sillä se sisältää jo kuvien ja tarinoiden lisäämis ominaisuudet.
 Graaffinen ohjeisto
-
-Graafinen ohjeistus löytyy main branchilta uuden logon ja tekstiväriehdotuksien kanssa;
-
-                            origin/staging
 
