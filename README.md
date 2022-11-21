@@ -1,5 +1,5 @@
-# Hyväntekeväisyys
-<<<<<<< HEAD
+Hyväntekeväisyys Kaikki flyerit suun muut on develop brnachissa
+
 [Nettisivun layout](https://www.figma.com/file/OWkuLdhIT5AJmGvlcugobT/Untitled?node-id=0%3A1)
 
 ---------------------------------------------------------------------------------------------
@@ -9,7 +9,6 @@
 ---------------------------------------------------------------------------------------------
 
 [Graafinen ohjeistus](https://www.figma.com/file/s4SmaT4SjRDcdpEj1zEiQf/Untitled?node-id=0%3A1)
-=======
 
 
 ## Vaatimusmääritelmät 
@@ -18,21 +17,21 @@
 
 Asiakas vaati nettisivut josta löytyy pankkitunnukset, etusivulle päiväkodin tarina, tarinat ja kuvagalleria, yhteystiedot alhaalla ja yhteydenotto lomake. 
 
-Teemme nettisivut hyväntekeväisyys päiväkodille jotka sisältävät sivut: 
+Teemme nettisivut hyväntekeväisyys päiväkodille jotka sisältävät sivut:
 
-Kaikki sivut sisältävät: valikko palkin, taustan, logon ja logon taustakuvan sekä alareunassa yhteystiedot ja pikalinkit. 
+Kaikki sivut sisältävät: valikko palkin, taustan, logon ja logon taustakuvan sekä alareunassa yhteystiedot ja pikalinkit.
 
 Logo: punainen, korjataan kirjoitus virhe, vahvistetaan väriä. valkoinen pohja?
 
-etusivun : Alkutarina  eli lyhyt kuvaus englanniksi -> mikä mulufikir on ja kuvia.
+etusivun : Alkutarina eli lyhyt kuvaus englanniksi -> mikä mulufikir on ja kuvia.
 
-gallerian : kuva kansiot vuosittain 
+gallerian : kuva kansiot vuosittain
 
-tarinat : tarinat jaoteltu henkilöittäin tai sisällön mukaan.  
+tarinat : tarinat jaoteltu henkilöittäin tai sisällön mukaan.
 
-yhteystiedot : löytyy perus yhteystiedot ja pankkitilit lahjoittamista varten. 
+yhteystiedot : löytyy perus yhteystiedot ja pankkitilit lahjoittamista varten.
 
-Teemme graafisen ohjeiston ja nettisivujen ylläpitopalvelimena hostinger. 
+Teemme graafisen ohjeiston ja nettisivujen ylläpitopalvelimena hostinger.
 
 Somet: facebook riittää (raikas profiili)
 
@@ -46,10 +45,10 @@ Sivun yläreunaan: Facebook linkki? ja 'In Amharic' ja Etiopian lippu.
 
 Kohde ryhmä: laidasta laitaan, Mulun ja lähipiirin ystäviä, tuttavia, vapaaehtoisia jne. sekä Etiopiassa että ulkomailla.
 
-Vapaaehtoistyö (ei ole ihmisiä hoitamaan blogeja ja uutisia)
-jonnekkin kohta: Voluntary work/training -> Kysymys: Are you interestend in working with us? You are more than welcome to do your training for studies or be a volunteer at our Day care Centre.
+Vapaaehtoistyö (ei ole ihmisiä hoitamaan blogeja ja uutisia) jonnekkin kohta: Voluntary work/training -> Kysymys: Are you interestend in working with us? You are more than welcome to do your training for studies or be a volunteer at our Day care Centre.
 
 Palkkeihin: Mulu´s story, Faces behind stories, How it all started (Kore-sisters tarinaa ja miten kaikki aikoinaan alkoi), Contacts, Day care Centre, Donations, jne.
+Palvelin
 
 ## Graaffinen ohjeisto
 
@@ -64,4 +63,4 @@ Oranssi, vanha paperi valkoinen ja tummahko ruskea. tarkemmat väri koodit: (#FF
 Rautalanka mallit: Puhelin, Tabletti vaaka ja pystysuuntaan ja tietokone?
 
 Tausta: kuva homma. 
->>>>>>> origin/staging
+
