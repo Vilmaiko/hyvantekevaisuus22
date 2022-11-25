@@ -64,9 +64,9 @@ Rautalanka mallit: Puhelin, Tabletti vaaka ja pystysuuntaan ja tietokone?
 
 Tausta: kuva homma. 
 
-### Päiväkirja
+## Päiväkirja
 
-## 25.11.2022
+### 25.11.2022
 
 Arttu teki hienon searching ja SEO on tutkinnassa
 
