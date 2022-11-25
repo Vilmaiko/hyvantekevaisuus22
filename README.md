@@ -68,7 +68,7 @@ Tausta: kuva homma.
 
 ### 25.11.2022
 
-Arttu teki hienon searching ja SEO on tutkinnassa
+Arttu teki hienon searching ja SEO on tutkinnassa ja pieniä ongelmia
 
 Jerryn tietoturva tutkittu ja sivuilla ja toimii
 
