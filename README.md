@@ -64,3 +64,14 @@ Rautalanka mallit: Puhelin, Tabletti vaaka ja pystysuuntaan ja tietokone?
 
 Tausta: kuva homma. 
 
+## Päiväkirja
+
+Arttu teki hienon searching ja SEO on tutkinnassa
+
+Jerryn tietoturva tutkittu ja sivuilla ja toimii
+
+Mikkon kävijä raportti on sivuilla ja toimii
+
+Joakim yhteyden otto lomake on olemassa mutta ei vielä nettisivuilla.
+
+Vilma mietti ja teki jepen kaa kaikkia projari hommia ja auttoi joitain.
